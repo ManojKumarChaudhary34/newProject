@@ -28,6 +28,8 @@ function App() {
         <button type="button" onClick={() => decreaseCount(5)}>
           Decrease Counter
         </button>
+        <br />
+        <button type="button">Reset</button>
       </div>
     </>
   );
